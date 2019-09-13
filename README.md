@@ -21,7 +21,7 @@ Remove mask
 
 Put Pig mask
 <br>
-```
+```lua
 /mask 1
 ```
 <br>
