@@ -30,9 +30,8 @@ Put mask with color,
 <br>
 where you will use mask 56 and color 7
 <br>
-```lua
 /mask 56 7
-```
+
 <br>
 <br>
 Use /hat [number] [color] for put hat, or /hat to remove
