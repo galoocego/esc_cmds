@@ -30,7 +30,7 @@ Put mask with color,
 <br>
 where you will use mask 56 and color 7
 <br>
-```
+```lua
 /mask 56 7
 ```
 <br>
