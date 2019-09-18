@@ -33,6 +33,6 @@ RegisterCommand("hat", function(source, args)
         -- Update ped
         SetPedPropIndex(GetPlayerPed(-1), 0, tonumber(args[1]), color, true);
     else
-        SetPedPropIndex(GetPlayerPed(-1), 0, 0, 0, true);
+        ClearPedProp(GetPlayerPed(-1),0)
     end
 end, false)
