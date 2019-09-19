@@ -34,7 +34,8 @@ Masks and Hats having colors, also use /mask <mask_number> <color_number>
 
 
 <br>
-#### List of hats and masks
+## List of hats and masks
+
 [masks](https://wiki.gtanet.work/index.php?title=Masks)
 
 [hats](https://wiki.gtanet.work/index.php?title=Hats_Male)
